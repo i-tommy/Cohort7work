@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Account {
     String accountName;
     int accountBalance;
@@ -20,5 +22,11 @@ public class Account {
 
     public void withdraw(int withdrawalAmount) {
 
-    }
+
+
+        }
+
+        private static int nextInt() {
+            return 0;
+        }
 }
