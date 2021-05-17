@@ -15,7 +15,11 @@ public class AirConditioner {
     }
 
     public void setTemperature(int tempIsOn) {
-        temperature = tempIsOn;
+        if (isOn ==true) {
+            temperature = tempIsOn;
+        } else {
+
+        }
     }
 
     public int getTemperature() {

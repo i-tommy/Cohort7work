@@ -22,5 +22,11 @@ public class AirConditionTest {
         }
 
         @Test
+    public void testThatTemperatureCannotBeSetWhenAirconditionerIsOff(){
+        AirConditioner samsung = new AirConditioner();
+        samsung.setTemperature(20);
+        assertEquals(20, samsung.getTemperature());
+        }
+
 }
 
