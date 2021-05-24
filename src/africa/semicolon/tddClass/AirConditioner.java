@@ -25,4 +25,20 @@ public class AirConditioner {
     public int getTemperature() {
         return temperature;
     }
+
+    public void increaseTemperature() {
+        if(temperature >=16 && temperature < 30) {
+            temperature = temperature + 1;
+        }else{
+                temperature = temperature;
+        }
+    }
+
+    public void decreaseTemperature() {
+        if(temperature >16 && temperature < 30) {
+            temperature = temperature - 1;
+        }else{
+            temperature = temperature;
+        }
+    }
 }
