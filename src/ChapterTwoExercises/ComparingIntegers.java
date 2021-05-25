@@ -1,3 +1,5 @@
+package ChapterTwoExercises;
+
 import java.util.Scanner;
 public class ComparingIntegers
 {
@@ -7,7 +9,7 @@ public class ComparingIntegers
 		int num1;
 		int num2;
 		
-		System.out.print("Enter firt integer: ");
+		System.out.print("Enter first integer: ");
 		num1 = input.nextInt();
 		
 		System.out.print("Enter second integer: ");

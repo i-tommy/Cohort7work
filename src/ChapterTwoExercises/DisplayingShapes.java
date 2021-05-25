@@ -1,3 +1,5 @@
+package ChapterTwoExercises;
+
 public class DisplayingShapes
 {
 	public static void main(String... args)

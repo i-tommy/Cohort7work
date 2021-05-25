@@ -1,4 +1,7 @@
-import java.util.scanner;
+package ChapterTwoExercises;
+
+import java.util.Scanner;
+
 	public class CarPool
 {
 	public static void main(String... args)
@@ -6,8 +9,8 @@ import java.util.scanner;
 	
 	Scanner input = new Scanner(System.in);
 
-	int totalmiles;
-	int costgasoline;
+	String totalmiles;
+	String costgasoline;
 	int averagemiles;
 	int parkingfees;
 	int tolls;

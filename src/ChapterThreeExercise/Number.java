@@ -1,4 +1,4 @@
-package africa.semicolon;
+package ChapterThreeExercise;
 
 import java.util.Scanner;
 

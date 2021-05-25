@@ -1,4 +1,6 @@
-public class NumberSquareCube 
+package ChapterTwoExercises;
+
+public class NumberSquareCube
 {
 	public static void main(String... args) 
 	{

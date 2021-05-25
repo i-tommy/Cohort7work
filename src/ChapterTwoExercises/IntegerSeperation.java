@@ -1,3 +1,5 @@
+package ChapterTwoExercises;
+
 import java.util.Scanner;
 public class IntegerSeperation{
 	public static void main(String... args){

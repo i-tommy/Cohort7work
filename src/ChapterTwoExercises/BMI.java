@@ -1,3 +1,5 @@
+package ChapterTwoExercises;
+
 import java.util.Scanner;
 	public class BMI
 {
@@ -16,7 +18,7 @@ import java.util.Scanner;
 	height = input.nextDouble();
 
 	bmi = weight / (height * height);
-	System.out.println("BMI VALUES");
+	System.out.println("ChapterTwoExercises.BMI VALUES");
 	
 	if (bmi < 18.5);
 	System.out.printf("Underweight: %f%n", bmi);

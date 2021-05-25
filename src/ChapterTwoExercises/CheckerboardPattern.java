@@ -1,3 +1,5 @@
+package ChapterTwoExercises;
+
 public class CheckerboardPattern
 {
 	public static void main(String... args)

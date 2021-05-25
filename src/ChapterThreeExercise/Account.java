@@ -1,3 +1,5 @@
+package ChapterThreeExercise;
+
 import java.util.Scanner;
 
 public class Account {

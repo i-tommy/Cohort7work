@@ -1,4 +1,4 @@
-package TelevisionTest;
+package ChapterThreeExercise;
 
 public class Television {
     private boolean isOn;
