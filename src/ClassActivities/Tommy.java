@@ -1,4 +1,4 @@
-package ChapterTwoExercises;
+package ClassActivities;
 
 public class Tommy {
 
